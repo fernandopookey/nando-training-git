@@ -11,5 +11,10 @@
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
         Pariatur ad aut deleniti numquam ducimus eligendi sint, animi facere qui necessitatibus minus harum. 
         Aspernatur esse fugit in voluptates nihil velit voluptate.</p>
+
+    <h1>Ini adalah contoh 2</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        Minima optio itaque, commodi sunt natus cupiditate, consequuntur sit repudiandae, 
+        blanditiis vitae sed voluptatem! Mollitia dignissimos maiores harum ipsam soluta magnam quo.</p>
 </body>
 </html>
