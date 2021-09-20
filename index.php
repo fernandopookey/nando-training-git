@@ -8,5 +8,8 @@
 </head>
 <body>
     <h1>Ini Adalah Contoh</h1>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
+        Pariatur ad aut deleniti numquam ducimus eligendi sint, animi facere qui necessitatibus minus harum. 
+        Aspernatur esse fugit in voluptates nihil velit voluptate.</p>
 </body>
 </html>
